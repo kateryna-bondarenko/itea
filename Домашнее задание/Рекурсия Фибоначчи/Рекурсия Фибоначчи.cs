@@ -29,7 +29,7 @@ namespace ConsoleApp4
             else
 
             {
-                return (Fibonachi(n - 1) + Fibonachi(n - 2));
+                return Fibonachi(n - 1) + Fibonachi(n - 2);
             }
 
            

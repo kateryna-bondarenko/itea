@@ -26,6 +26,7 @@ namespace ConsoleApp4
                 return 1;
             }
 
+			//this else is redundant, you could omit it.
             else
 
             {

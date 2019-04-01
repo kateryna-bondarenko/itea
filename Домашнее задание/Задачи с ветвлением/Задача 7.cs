@@ -24,6 +24,8 @@ namespace ConsoleApp4
                     Console.WriteLine(a/2);
                 }
 
+				//Is this the same as 0<a<=50, if so, write a simple version,
+				//remember that you are writing code to be read by not for machine, but by human being.
             else if ((a+50)>50 && (a+50)<=100)
             {
                 Console.WriteLine(a+50);

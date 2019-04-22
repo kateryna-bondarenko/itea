@@ -1,0 +1,7 @@
+C:\Users\1\Documents\GitHub\itea\Домашние задания\#3 + #4\Bank Classes\Bank Classes\bin\Debug\Bank.exe.config
+C:\Users\1\Documents\GitHub\itea\Домашние задания\#3 + #4\Bank Classes\Bank Classes\bin\Debug\Bank.exe
+C:\Users\1\Documents\GitHub\itea\Домашние задания\#3 + #4\Bank Classes\Bank Classes\bin\Debug\Bank.pdb
+C:\Users\1\Documents\GitHub\itea\Домашние задания\#3 + #4\Bank Classes\Bank Classes\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\1\Documents\GitHub\itea\Домашние задания\#3 + #4\Bank Classes\Bank Classes\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\GitHub\itea\Домашние задания\#3 + #4\Bank Classes\Bank Classes\obj\Debug\Bank.exe
+C:\Users\1\Documents\GitHub\itea\Домашние задания\#3 + #4\Bank Classes\Bank Classes\obj\Debug\Bank.pdb
